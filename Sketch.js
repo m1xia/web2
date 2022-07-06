@@ -4,7 +4,7 @@ let human;
 function setup(){
   createCanvas(500, 500); 
 	background(255); 
-  human = loadImage("imagenes/human.png");  
+  human = loadImage("Imagenes/human.png");  
 
   textFont('Rubik Glitch');
 	textSize(80);
